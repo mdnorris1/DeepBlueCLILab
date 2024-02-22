@@ -15,7 +15,7 @@ PS C:\tools\DeepBlueCLI-master> Set-ExecutionPolicy unrestricted
 Attackers may well try to add additional users on to a system they have compromised to enable a level of persistence that they perhaps would not gain with malware. By creating an extra user account it allows them to blend in!
 
 <br/>
-<img src="https://github.com/mdnorris1/DeepBlueCLILab/blob/main/assets1/css/2 event id 4720.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="https://github.com/mdnorris1/DeepBlueCLILab/blob/main/assets1/css/2eventid4720.png" height="80%" width="80%" alt=""/>
 <br />
 
 Now, let’s run a check in the .evtx files for adding a new user:
